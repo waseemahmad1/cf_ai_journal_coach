@@ -1,4 +1,3 @@
-```markdown
 # cf_ai_journal_coach
 
 An AI-powered journaling coach built with **Cloudflare Workers AI**, **KV Storage**, and **Pages**.
@@ -19,7 +18,6 @@ An AI-powered journaling coach built with **Cloudflare Workers AI**, **KV Storag
 ```bash
 git clone https://github.com/<your-username>/cf_ai_journal_coach.git
 cd cf_ai_journal_coach
-```
 
 ### 2. Set up Cloudflare
 ```bash
@@ -63,5 +61,3 @@ Push your changes to GitHub.
 ## Example URLs
 - Worker: https://cf_ai_journal_coach.waseemahmad.workers.dev
 - Frontend: https://cf-ai-journal-coach.pages.dev
-
-```
