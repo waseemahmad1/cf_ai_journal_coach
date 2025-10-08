@@ -7,4 +7,5 @@ binding = "AI"
 
 [[kv_namespaces]]
 binding = "JOURNAL_HISTORY"
-id = "your-kv-id-here"
+id = "875fd0763f4548e8b1a604b698598d6b"
+preview_id = "eb4c12fb864c4963bc05f05c81761be1"
