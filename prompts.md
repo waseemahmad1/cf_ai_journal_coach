@@ -1,4 +1,3 @@
-```markdown
 # PROMPTS.md
 
 ChatGPT (GPT-5) was used to help during the development of **cf_ai_journal_coach**, an AI-powered journaling coach built with Cloudflare Workers AI, KV, and Pages!
@@ -22,5 +21,3 @@ ChatGPT (GPT-5) was used to help during the development of **cf_ai_journal_coach
 ### 5️⃣ Documentation & Testing
 > “How should I write my README to make the setup easy for other SWEs?”
 
----
-```
