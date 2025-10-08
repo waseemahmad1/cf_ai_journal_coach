@@ -1,0 +1,10 @@
+name = "cf_ai_journal_coach"
+main = "worker.js"
+compatibility_date = "2025-10-08"
+
+[ai]
+binding = "AI"
+
+[[kv_namespaces]]
+binding = "JOURNAL_HISTORY"
+id = "your-kv-id-here"
