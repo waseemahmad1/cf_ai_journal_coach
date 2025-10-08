@@ -71,7 +71,6 @@
   </div>
 
   <script>
-    // --- Configure your Worker endpoint here ---
     const WORKER_URL = "https://cf_ai_journal_coach.waseemahmad.workers.dev/chat";
 
     const chat = document.getElementById("chat");
@@ -94,7 +93,6 @@
     const history = loadHistory();
     history.forEach(m => render(m.role, m.content, false));
 
-    // Auto-focus
     input.focus();
 
     // Enter to send
