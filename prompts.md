@@ -12,12 +12,12 @@ ChatGPT (GPT-5) was used to help during the development of **cf_ai_journal_coach
 ### 2. Debugging
 > “I think my worker is deployed but the frontend can’t connect to it, how can I debug the routing issue? I'm getting a network error”
 
-### 3. KV Integration
+### 3. Integration
 > “How can I store and retrieve memory with KV inside a Worker? I don't want to slow down performance though”
 
-### 4️⃣ Deployment Help
+### 4. Deployment 
 > “I deployed my Worker but I don't know how to connect it to Cloudflare Pages for the frontend."
 
-### 5️⃣ Documentation & Testing
+### 5. Documentation
 > “How should I write my README to make the setup easy for other SWEs?”
 
