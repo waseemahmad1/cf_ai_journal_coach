@@ -1,6 +1,6 @@
 # cf_ai_journal_coach
 
-An AI-powered journaling coach built with **Cloudflare Workers AI**, **KV Storage**, and **Pages**.
+An AI-powered journaling coach built with **Cloudflare Workers AI**, **KV Storage**, and **Pages**. This was developed for Cloudfare SWE Intern 2026!
 
 ---
 
