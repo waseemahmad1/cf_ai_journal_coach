@@ -1,4 +1,4 @@
-name = "cf_ai_journal_coach"
+name = "cf-ai-journal-coach"
 main = "worker.js"
 compatibility_date = "2025-10-08"
 
